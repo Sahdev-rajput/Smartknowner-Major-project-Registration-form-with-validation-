@@ -21,14 +21,14 @@
 
 
 
-                                                   Click here to view: 
-                     https://sahdev-rajput.github.io/Smartknowner-Major-project-Registration-form-with-validation-/
+Click here to view: https://sahdev-rajput.github.io/Smartknowner-Major-project-Registration-form-with-validation-/
                      
                      
                      
                      
                      
->                                                       THANK YOU
+                     
+                                                       THANK YOU
                                                       ⭐⭐⭐⭐⭐
 
 
