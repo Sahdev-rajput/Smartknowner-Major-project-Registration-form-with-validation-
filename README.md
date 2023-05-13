@@ -17,7 +17,7 @@
 
 
 
-<p align="center" style="color: "Red"">Created Solely by <b>Sahdev Rajput</b> using <i>HTML, CSS and JAVASCRIPT</i></p>
+<p align="center" style="color: red">Created Solely by <b>Sahdev Rajput</b> using <i>HTML, CSS and JAVASCRIPT</i></p>
 
 
 
